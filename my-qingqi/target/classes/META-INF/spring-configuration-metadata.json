@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "baidu",
+      "type": "com.qingqi.config.BaiduConfig",
+      "sourceType": "com.qingqi.config.BaiduConfig"
+    },
+    {
+      "name": "rsa",
+      "type": "com.qingqi.config.RSAConfig",
+      "sourceType": "com.qingqi.config.RSAConfig"
+    },
+    {
+      "name": "wx",
+      "type": "com.qingqi.config.WeiXinConfig",
+      "sourceType": "com.qingqi.config.WeiXinConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "baidu.ak",
+      "type": "java.lang.String",
+      "sourceType": "com.qingqi.config.BaiduConfig"
+    },
+    {
+      "name": "baidu.server-id",
+      "type": "java.lang.String",
+      "sourceType": "com.qingqi.config.BaiduConfig"
+    },
+    {
+      "name": "baidu.url",
+      "type": "java.lang.String",
+      "sourceType": "com.qingqi.config.BaiduConfig"
+    },
+    {
+      "name": "rsa.private-str",
+      "type": "java.lang.String",
+      "sourceType": "com.qingqi.config.RSAConfig"
+    },
+    {
+      "name": "rsa.publish-str",
+      "type": "java.lang.String",
+      "sourceType": "com.qingqi.config.RSAConfig"
+    },
+    {
+      "name": "wx.app-id",
+      "type": "java.lang.String",
+      "sourceType": "com.qingqi.config.WeiXinConfig"
+    },
+    {
+      "name": "wx.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.qingqi.config.WeiXinConfig"
+    },
+    {
+      "name": "wx.url",
+      "type": "java.lang.String",
+      "sourceType": "com.qingqi.config.WeiXinConfig"
+    }
+  ],
+  "hints": []
+}
