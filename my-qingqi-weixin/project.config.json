@@ -2,7 +2,7 @@
   "miniprogramRoot": "dist/",
   "projectname": "project-qingqi-taro3-weixin-react-ts",
   "description": "qingqi",
-  "appid": "wx372977ffdd059b9a",
+  "appid": "",
   "setting": {
     "urlCheck": false,
     "es6": true,
